@@ -1,5 +1,5 @@
 {
-  "name": "layershifter/tld-support",
+  "name": "showapp/tld-support",
   "description": "Support package for TLDDatabase and TLDExtract",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
@@ -7,6 +7,10 @@
     {
       "name": "Alexander Fedyashov",
       "email": "a@fedyashov.com"
+    },
+    {
+      "name": "Konrad Marcińczyk",
+      "email": "contact@showapp.pl"
     }
   ],
   "autoload": {
